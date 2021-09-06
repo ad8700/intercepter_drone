@@ -2,6 +2,7 @@ import math
 import pandas as pd
 import numpy as np
 import sklearn
+import dronekit
 
 """
 Start with the variables that we know or will find out
@@ -34,4 +35,6 @@ Third equation
 
 Note:
 Once t is discovered, place it into the second equation and find the vector V
+
+
 """
